@@ -1,0 +1,24 @@
+# Business Problem
+
+# Load Dataset
+
+## Discover and visualize the data to gain insights
+
+## Prepare the data for Machine Learning algorithms 
+
+# split dataset
+
+# Select a model and train it
+
+## Fine-tune your model
+
+## Save Ml Model
+
+    #validate input hours
+
+    # input and predicted value store in df then save in csv file
+
+
+
+
+
